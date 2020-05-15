@@ -1,15 +1,16 @@
-<img src="" width="100" height="100" alt="headerImage">
+<!-- <img src="./assets/images/code-refactor.png" width="100" height="100" alt="headerImage"> -->
 ​
-# Code Refactor
+<!-- # Code Refactor -->
 ​
 <center>
 <p> 
-    <img src="" width="100" height="100" alt="headerImage">
-    <h1>My Project</h1>
+    <img src="./assets/images/code-refactor.png" width="100" height="100" alt="headerImage">
+    <h1>Code Refactor</h1>
 </p>
 </center>
+
+ 
 ​
-[https://jking0186.github.io/hw1-code-refactor/](#)
 ​
 ## Description
 - In this code I changed many elements to make the webpage more accessible such as giving the page a title
