@@ -19,7 +19,7 @@
 - Added an id to the search-engine-optimization anchor
 - Created a single class for all of the elements that have the same styles class="main-source" and class="side-bar"
 - Decreased the size of the images to help the webpage load faster
-- Updated and consolidated the stylesheet to make sure all the original code would still be implemented without changing the look of the webpage 
+- Updated and consolidated the stylesheet to make sure all the original code would still be implemented without changing the look of the webpage and added a hover element over to the navigation links
 ​
 ## Installation
 ​
